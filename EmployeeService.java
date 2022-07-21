@@ -1,8 +1,8 @@
-package in.bushansirgur.springbootcrud.springbootcrudapi.service;
+package in.springbootcrud.springbootcrudapi.service;
 
 import java.util.List;
 
-import in.bushansirgur.springbootcrud.springbootcrudapi.model.Employee;
+import in.springbootcrud.springbootcrudapi.model.Employee;
 
 public interface EmployeeService {
 	List<Employee> get();
